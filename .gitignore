@@ -23,6 +23,8 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 .privates
+.privates/help.md
+.private/help.md
 
 # OSX
 # =========================
